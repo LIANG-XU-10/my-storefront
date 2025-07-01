@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/LIANG-XU-10/my-storefront/
+    type: markup
+
+folders:
+  /products/: /products/default
